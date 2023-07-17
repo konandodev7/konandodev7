@@ -2,7 +2,7 @@
 - 👀 I’m interested in looking for web scraping jobs.
 - 🌱 I’m currently learning Data Analytics & Web Scraping & Blockchain & Ethereum & and most recent technologies.
 - 💞️ I’m looking for teammates who work with me or lead me.
-- 📫 How to reach me maxzvarych2811@gmail.com...
+- 📫 How to reach me masterpython.konandodev7@gmail.com
 
   IMPORTANT:
   Programming is my greatest love.
