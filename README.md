@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @konandodev7
-- 👀 I’m interested in looking for web scraping jobs.
-- 🌱 I’m currently learning Data Analytics & Web Scraping & Blockchain & Ethereum & and most recent technologies.
+- 👀 I’m interested in looking for laravel & web3 & blockchain developer jobs.
+- 🌱 I’m currently learning Blockchain & Ethereum & Web3 and most recent technologies.
 - 💞️ I’m looking for teammates who work with me or lead me.
 - 📫 How to reach me masterpython.konandodev7@gmail.com
 
